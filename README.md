@@ -13,7 +13,7 @@ To create a database in MySQL, you can use the following SQL command:
 ```sql
 CREATE DATABASE database_name;
 ```
-This command creates a new database with the specified name in your MySQL server.
+This command creates a new database with the specified name in your MySQL server. For other MySQL commends, go to [MySQL Cheatsheet](https://github.com/easai/mysql-cheatsheet).
 
 ### Install Tortoise ORM
 To install Tortoise ORM, you can use the following command:
